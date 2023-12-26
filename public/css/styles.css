@@ -35,5 +35,15 @@
   color: #fff;
 }
 
-/*styling compose page:
-*/
+/*stlying buttton*/
+#button {
+    position: absolute;
+    top: 25%;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    color: #777
+}
+#button:hover {
+    color: 
+    #1abc9c;
+}
